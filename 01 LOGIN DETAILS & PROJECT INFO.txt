@@ -1,0 +1,11 @@
+**Database Name: orrsphp**
+
+**Developed by John Jabez Capistrano**
+
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: innovations
+
